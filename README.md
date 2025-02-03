@@ -1,4 +1,7 @@
 # Amigo Secreto
+```
+https://sorteio-amigo-secreto-q7sxpa9mk.vercel.app/
+```
 
 Este é um projeto simples de Amigo Secreto, onde você pode adicionar nomes de amigos e sortear um nome aleatório. Quando todos os nomes forem sorteados, o processo reinicia automaticamente.
 
