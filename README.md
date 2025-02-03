@@ -12,7 +12,7 @@ Este é um projeto simples de Amigo Secreto, onde você pode adicionar nomes de 
 
 1. Clone o repositório para o seu computador:
     ```bash
-    git clone https://github.com/diegobremer/projeto-amigo-secreto
+    git clone https://github.com/diegoferreira96/logica-programacao-challenge-amigo-secreto
     ```
 
 2. Abra o arquivo [index.html] no seu navegador.
